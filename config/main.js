@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "idk"; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "GitGam"; // Change this to change the name of your website.
+var subtext = "v1.0-Private"; // set the subtext
 
 // more settings in main.css
 
